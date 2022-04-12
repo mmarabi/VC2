@@ -12,3 +12,7 @@ System.out.println("Ciao da Matteo!");
 public string federico{
 System .out.println("Ciao da Federico"); 
 }
+
+public string alessandro {
+System.out.println("Ciao Russia");
+}
